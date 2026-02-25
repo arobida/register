@@ -1,6 +1,7 @@
 {
   "owner": {
-    "username": "arobida"
+    "username": "arobida",
+    "email": "afrobida@gmail.com"
   },
   "records": {
     "CNAME": "theafr-dev.afrobida.workers.dev"
